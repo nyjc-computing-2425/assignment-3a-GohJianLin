@@ -57,7 +57,7 @@ The following table is used to change the check digit into the corresponding alp
     ┍━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
     │Check Digit     │ 0  1  2  3  4  5  6  7  8  9 10  │
     ┝━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┥
-    │Starts with S/T │ J  Z  I  H  G  F  E  D  C  B  A  │ 
+    │Starts with S/T │ J  Z  I  H  G  F G E  D  C  B  A  │ 
     ┝━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┥
     │Starts with F/G │ X  W  U  T  R  Q  P  N  M  L  K  │ 
     ┕━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
